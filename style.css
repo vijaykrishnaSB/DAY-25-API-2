@@ -1,0 +1,21 @@
+.Image_cat{
+    width: 20rem;
+    height: 20rem;
+    margin-left: 28.5rem;
+    margin-top: 3rem;
+}
+.cat_title{
+    color:red;
+    text-align: center;
+    font-family: 'Irish Grover', cursive;
+    padding: 3rem;
+}
+.generate_btn{
+    margin-left: 47%;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    background-color: whitesmoke;
+}
+.background_color{
+    background:black;
+}
